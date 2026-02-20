@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-dotenv
+langchain
+langchain-postgres
+langchain-groq
+langchain-huggingface
+pgvector
+sentence-transformers
+pydantic
+python-multipart
+psycopg[binary]
+streamlit
+requests
